@@ -1,0 +1,87 @@
+1
+01:00:02,000 --> 01:00:02,039
+<b><font color='#fed64e'>BEEP</font></b>
+
+2
+01:00:11,320 --> 01:00:12,280
+<b><font color='#fed64e'>Hi,</font></b>
+
+3
+01:00:13,320 --> 01:00:14,480
+<b><font color='#fed64e'>I'm Sarah.</font></b>
+
+4
+01:00:15,639 --> 01:00:17,800
+<b><font color='#fed64e'>Doctor Sarah Mandl.</font></b>
+
+5
+01:00:18,840 --> 01:00:21,400
+<b><font color='#fed64e'>And the thing to </font></b>
+<b><font color='#fed64e'>know about me is...</font></b>
+
+6
+01:00:24,639 --> 01:00:25,960
+<b><font color='#fed64e'>I'm dead.</font></b>
+
+7
+01:00:26,239 --> 01:00:27,639
+<b><font color='#fed64e'>Murdered.</font></b>
+
+8
+01:00:28,280 --> 01:00:31,320
+<b><font color='#fed64e'>No no, don't weep </font></b>
+<b><font color='#fed64e'>for me though, mothers.</font></b>
+
+9
+01:00:31,519 --> 01:00:35,239
+<b><font color='#fed64e'>There's no grand</font></b>
+<b><font color='#fed64e'>cosmic injustice here.</font></b>
+
+10
+01:00:35,760 --> 01:00:37,559
+<b><font color='#fed64e'>Hand to heart.</font></b>
+
+11
+01:00:40,880 --> 01:00:42,440
+<b><font color='#fed64e'>I made a right mess</font></b>
+
+12
+01:00:42,599 --> 01:00:44,079
+<b><font color='#fed64e'>of my life.</font></b>
+
+13
+01:00:45,320 --> 01:00:46,320
+<b><font color='#fed64e'>But,</font></b>
+
+14
+01:00:46,519 --> 01:00:48,239
+<b><font color='#fed64e'>I had a plan.</font></b>
+
+15
+01:00:49,119 --> 01:00:51,440
+<b><font color='#fed64e'>Yep. Sure did.</font></b>
+
+16
+01:00:52,000 --> 01:00:54,360
+<b><font color='#fed64e'>And it almost,</font></b>
+
+17
+01:00:54,519 --> 01:00:56,119
+<b><font color='#fed64e'>almost</font></b>
+
+18
+01:00:56,400 --> 01:00:57,519
+<b><font color='#fed64e'>worked out.</font></b>
+
+19
+01:00:58,920 --> 01:00:59,920
+<b><font color='#fed64e'>But,</font></b>
+
+20
+01:01:00,400 --> 01:01:03,320
+<b><font color='#fed64e'>if you want to </font></b>
+<b><font color='#fed64e'>make the devil laugh,</font></b>
+
+21
+01:01:04,000 --> 01:01:05,559
+<b><font color='#fed64e'>tell him your plans. </font></b>
