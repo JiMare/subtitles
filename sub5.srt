@@ -1,0 +1,335 @@
+1
+00:00:08,759 --> 00:00:10,080
+<b><font color='#fed64e'>Pa, pa, pa, pa.</font></b>
+
+2
+00:00:10,359 --> 00:00:10,560
+<b><font color='#fed64e'>Yeah.</font></b>
+
+3
+00:00:12,119 --> 00:00:12,839
+<b><font color='#fed64e'>Excuse me.</font></b>
+
+4
+00:00:14,519 --> 00:00:15,439
+<b><font color='#fed64e'>Where were we?</font></b>
+
+5
+00:00:16,399 --> 00:00:18,960
+<b><font color='#fed64e'>Yeah, well,
+Dr. Mandl and I,</font></b>
+
+6
+00:00:19,120 --> 00:00:21,160
+<b><font color='#fed64e'>we had a professional</font></b>
+<b><font color='#fed64e'>relationship.</font></b>
+
+7
+00:00:21,800 --> 00:00:23,920
+<b><font color='#fed64e'>I was naturally very pleased</font></b>
+
+8
+00:00:24,039 --> 00:00:26,440
+<b><font color='#fed64e'>when she reached
+out like six months ago.</font></b>
+
+9
+00:00:26,600 --> 00:00:30,039
+<b><font color='#fed64e'>And then she expressed
+her interest to join our ranks.</font></b>
+
+10
+00:00:31,280 --> 00:00:34,359
+<b><font color='#fed64e'>And she definitely made a
+very valuable addition to our team.</font></b>
+
+11
+00:00:37,600 --> 00:00:39,240
+<b><font color='#fed64e'>Ugh, it's a...</font></b>
+
+12
+00:00:39,799 --> 00:00:43,479
+<b><font color='#fed64e'>We were really all
+very shaken by what happened.</font></b>
+
+13
+00:00:47,119 --> 00:00:50,439
+<b><font color='#fed64e'>I spoke with her in </font></b>
+<b><font color='#fed64e'>the afternoon the day, you know.</font></b>
+
+14
+00:00:50,920 --> 00:00:52,880
+<b><font color='#fed64e'>She was about
+to take some time off,</font></b>
+
+15
+00:00:53,039 --> 00:00:57,240
+<b><font color='#fed64e'>and I just abode to </font></b>
+<b><font color='#fed64e'>iron out some logistics.</font></b>
+
+16
+00:00:58,520 --> 00:01:02,479
+<b><font color='#fed64e'>That's truly a horrible thing.</font></b>
+
+17
+00:01:03,320 --> 00:01:05,879
+<b><font color='#fed64e'>And you can't imagine</font></b>
+<b><font color='#fed64e'>the nightmare in</font></b>
+
+18
+00:01:06,079 --> 00:01:07,840
+<b><font color='#fed64e'>that all this is causing.</font></b>
+
+19
+00:01:12,239 --> 00:01:13,719
+<b><font color='#fed64e'>One-sided.</font></b>
+
+20
+00:01:14,200 --> 00:01:17,000
+<b><font color='#fed64e'>Well, this is rich.</font></b>
+
+21
+00:01:19,280 --> 00:01:21,959
+<b><font color='#fed64e'>Clearly you have seen
+our private communications.</font></b>
+
+22
+00:01:24,439 --> 00:01:29,959
+<b><font color='#fed64e'>I actually see why
+it might seem one-sided.</font></b>
+
+23
+00:01:32,799 --> 00:01:35,599
+<b><font color='#fed64e'>The truth
+about Sarah is...</font></b>
+
+24
+00:01:35,959 --> 00:01:37,239
+<b><font color='#fed64e'>She was-</font></b>
+
+25
+00:01:38,159 --> 00:01:39,640
+<b><font color='#fed64e'>she wasn't what she seemed.</font></b>
+
+26
+00:01:42,599 --> 00:01:44,760
+<b><font color='#fed64e'>I did all
+sort of favors for her.</font></b>
+
+27
+00:01:44,959 --> 00:01:47,359
+<b><font color='#fed64e'>She really wanted an
+office in this Faust house,</font></b>
+
+28
+00:01:47,719 --> 00:01:49,239
+<b><font color='#fed64e'>so I made it happen.</font></b>
+
+29
+00:01:49,799 --> 00:01:51,480
+<b><font color='#fed64e'>Although I usually</font></b>
+<b><font color='#fed64e'>try to keep our</font></b>
+
+30
+00:01:51,640 --> 00:01:52,879
+<b><font color='#fed64e'>doctors out of
+this damn building.</font></b>
+
+31
+00:01:53,319 --> 00:01:56,480
+<b><font color='#fed64e'>To avoid more bullying </font></b>
+<b><font color='#fed64e'>from those lunatics, you know.</font></b>
+
+32
+00:01:56,640 --> 00:01:57,519
+<b><font color='#fed64e'>And...</font></b>
+
+33
+00:01:57,680 --> 00:01:58,959
+<b><font color='#fed64e'>Good evening Mr. Doctor!</font></b>
+
+34
+00:01:59,120 --> 00:02:00,519
+<b><font color='#fed64e'>Evening, evening.</font></b>
+
+35
+00:02:03,879 --> 00:02:05,959
+<b><font color='#fed64e'>Well, as I said,</font></b>
+
+36
+00:02:07,040 --> 00:02:09,800
+<b><font color='#fed64e'>she was almost</font></b>
+<b><font color='#fed64e'>a split personality.</font></b>
+
+37
+00:02:10,080 --> 00:02:11,439
+<b><font color='#fed64e'> You know...</font></b>
+
+38
+00:02:12,479 --> 00:02:15,360
+<b><font color='#fed64e'>Hot one day
+and ice cold the other.</font></b>
+
+39
+00:02:16,520 --> 00:02:18,400
+<b><font color='#fed64e'>I thought maybe</font></b>
+<b><font color='#fed64e'>she was teasing me.</font></b>
+
+40
+00:02:18,919 --> 00:02:19,479
+<b><font color='#fed64e'>You know?</font></b>
+
+41
+00:02:21,759 --> 00:02:23,960
+<b><font color='#fed64e'>These long, meaningful looks.</font></b>
+
+42
+00:02:24,319 --> 00:02:25,879
+<b><font color='#fed64e'>And all of a sudden,</font></b>
+
+43
+00:02:26,240 --> 00:02:29,719
+<b><font color='#fed64e'>cold shoulder </font></b>
+<b><font color='#fed64e'>and making me out as...</font></b>
+
+44
+00:02:29,879 --> 00:02:32,360
+<b><font color='#fed64e'>Almost as some </font></b>
+<b><font color='#fed64e'>stalker or something.</font></b>
+
+45
+00:02:32,960 --> 00:02:33,879
+<b><font color='#fed64e'>You know what?</font></b>
+
+46
+00:02:34,080 --> 00:02:35,439
+<b><font color='#fed64e'>I think this was
+her nature.</font></b>
+
+47
+00:02:36,000 --> 00:02:36,599
+<b><font color='#fed64e'>To manipulate.</font></b>
+
+48
+00:02:36,759 --> 00:02:38,759
+<b><font color='#fed64e'>She was a manipulator,</font></b>
+<b><font color='#fed64e'>right.</font></b>
+
+49
+00:02:39,000 --> 00:02:42,919
+<b><font color='#fed64e'>She... You know, she
+played with everyone a game.</font></b>
+
+50
+00:02:43,280 --> 00:02:45,319
+<b><font color='#fed64e'>And you know what?</font></b>
+
+51
+00:02:45,479 --> 00:02:48,759
+<b><font color='#fed64e'>Maybe this
+was also her own doing.</font></b>
+
+52
+00:02:51,319 --> 00:02:52,080
+<b><font color='#fed64e'>Oh my God.</font></b>
+
+53
+00:02:52,360 --> 00:02:54,240
+<b><font color='#fed64e'> Where was I friday.</font></b>
+
+54
+00:02:54,400 --> 00:02:56,840
+<b><font color='#fed64e'>At home, with my
+wife, feel free to ask.</font></b>
+
+55
+00:02:57,120 --> 00:02:59,199
+<b><font color='#fed64e'>I mean, be mindful, though.</font></b>
+
+56
+00:02:59,639 --> 00:03:02,039
+<b><font color='#fed64e'>I would hate to hurt her.</font></b>
+
+57
+00:03:03,919 --> 00:03:07,960
+<b><font color='#fed64e'>But if you are now suspecting me,</font></b>
+<b><font color='#fed64e'>let me save you some time.</font></b>
+
+58
+00:03:08,479 --> 00:03:11,240
+<b><font color='#fed64e'>The truth is,</font></b>
+<b><font color='#fed64e'>and let's stay this between us.</font></b>
+
+59
+00:03:11,719 --> 00:03:14,039
+<b><font color='#fed64e'>The time off </font></b>
+<b><font color='#fed64e'>Sara was taking,</font></b>
+
+60
+00:03:14,919 --> 00:03:18,879
+<b><font color='#fed64e'>we were supposed to go
+together on a secret vacation.</font></b>
+
+61
+00:03:23,560 --> 00:03:26,680
+<b><font color='#fed64e'>She acted so aloof for
+the longest period of time.</font></b>
+
+62
+00:03:27,080 --> 00:03:32,039
+<b><font color='#fed64e'>But the Friday I saw her,
+she was back to her sweet self.</font></b>
+
+63
+00:03:32,400 --> 00:03:35,479
+<b><font color='#fed64e'>And she actually confirmed</font></b>
+<b><font color='#fed64e'>we would meet the next day</font></b>
+
+64
+00:03:35,599 --> 00:03:36,240
+<b><font color='#fed64e'>on the airport.</font></b>
+
+65
+00:03:36,479 --> 00:03:39,319
+<b><font color='#fed64e'>And I mean, I was waiting</font></b>
+<b><font color='#fed64e'>there almost all Saturday.</font></b>
+
+66
+00:03:41,280 --> 00:03:42,000
+<b><font color='#fed64e'>Sorry.</font></b>
+
+67
+00:03:42,479 --> 00:03:43,240
+<b><font color='#fed64e'>Yeah.</font></b>
+
+68
+00:03:44,919 --> 00:03:47,840
+<b><font color='#fed64e'>I'll be there when </font></b>
+<b><font color='#fed64e'>the door opens.</font></b>
+
+69
+00:03:48,000 --> 00:03:52,039
+<b><font color='#fed64e'> If you're bored, walk up and </font></b>
+<b><font color='#fed64e'>down the stairs, that won't harm you.</font></b>
+
+70
+00:03:55,479 --> 00:03:55,960
+<b><font color='#fed64e'>Yeah.</font></b>
+
+71
+00:03:56,520 --> 00:03:57,560
+<b><font color='#fed64e'>Yeah, well, I'm sorry.</font></b>
+
+72
+00:03:57,719 --> 00:03:58,639
+<b><font color='#fed64e'>I'll have to excuse me.</font></b>
+
+73
+00:03:58,800 --> 00:04:00,199
+<b><font color='#fed64e'>There is an
+emergency board meeting.</font></b>
+
+74
+00:04:01,360 --> 00:04:04,800
+<b><font color='#fed64e'>So if you need
+anything else, you have my number.</font></b>
